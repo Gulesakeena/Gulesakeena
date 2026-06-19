@@ -36,7 +36,7 @@ I am currently seeking internship opportunities in **Software Engineering, Gener
 <p>
   <img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-7F00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 </p>
 
 ---
@@ -50,21 +50,53 @@ I am currently seeking internship opportunities in **Software Engineering, Gener
 
 ---
 
-## 🗄️ Databases & Backend
+## 🤖 AI, Machine Learning & Intelligent Systems
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-7F00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-FF007F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-9C27B0?style=for-the-badge"/>
+</p>
+
+### 🧠 AI Skills
+- Large Language Model (LLM) based application development  
+- Prompt Engineering & Context Optimization  
+- Retrieval-Augmented Generation (RAG) systems  
+- AI Agent workflow design (tool-based reasoning systems)  
+- Multi-step intelligent automation using MCP architecture  
+- AI-driven backend system design  
+
+### 📊 Machine Learning Concepts
+- Supervised & Unsupervised Learning (basic understanding)  
+- Model evaluation & performance concepts  
+- Data preprocessing & feature understanding  
+- AI system integration with real-world applications  
+
+### ⚙️ AI Development Tools
+- Google Colab (model experimentation & testing)  
+- Python for AI/ML development  
+- LangChain framework for LLM applications  
+- API integration with AI models
+
+
+## 🤖 AI & Agentic Systems
+<p>
+  <img src="https://img.shields.io/badge/Agentic_AI-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-7F00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-FF007F?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🤖 AI & Emerging Technologies
+## 🗄️ Databases & Backend
 <p>
-  <img src="https://img.shields.io/badge/Generative_AI-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-7F00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-FF007F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database_Design-1E90FF?style=for-the-badge"/>
 </p>
 
 ---
@@ -73,9 +105,8 @@ I am currently seeking internship opportunities in **Software Engineering, Gener
 <p>
   <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AnyLogic-7F00FF?style=for-the-badge"/>
 </p>
+
 
 ---
 
