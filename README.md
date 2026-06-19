@@ -1,187 +1,177 @@
-<!-- HEADER BANNER (ANIMATED STYLE) -->
-<div align="center">
+<!-- ================== FLOATING HEADER (Particles Effect Style) ================== -->
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00e5ff&height=230&section=header&text=Gul%20e%20Sakeena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 🌊 Welcome to My AI Universe 🌌  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Gul%20e%20Sakeena&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-### 🧠 Building intelligent, practical & user-focused software solutions
-
-</div>
-
----
-
-<!-- CYBER PARTICLE STYLE DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/particles.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Generative+AI+%7C+AI+Agents+Developer;LangChain+%7C+RAG+%7C+MCP+Engineer;Full-Stack+AI+Developer;Open+to+Internships+%26+Freelance+Work" />
 </p>
 
 ---
 
-## 👾 AI Chatbot (Ask Me Anything)
+## 🌌 PROFILE OVERVIEW
 
-💬 This is your interactive AI assistant concept:
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-> ⚡ “Ask questions about my projects, AI skills, or experience”
-
-🤖 Example:
-- What is RAG?
-- What projects has she built?
-- Skills in LangChain?
-
-🧠 (You can later integrate a real chatbot using Chatbase / OpenAI / Vercel AI SDK)
+💜 AI-focused Software Engineer  
+⚡ Building intelligent systems with LLMs, RAG & AI Agents  
+🧠 Strong interest in automation & scalable AI systems  
+🚀 Open for internships & freelance opportunities  
 
 ---
 
-## 🧠 About Me (AI Engineer Profile)
+## 🧊 3D GITHUB BADGES
 
-I am a **Software Engineering student at the University of Gujrat** focused on building next-generation intelligent systems.
+<p align="center">
 
-### 🚀 Core Interests:
-- Generative AI & LLM Applications  
-- AI Agents & Autonomous Workflows  
-- Retrieval-Augmented Generation (RAG)  
-- LangChain & MCP Development  
-- Full-Stack Web Development  
+<img src="https://img.shields.io/badge/Python-3D-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-3D-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-3D-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-3D-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-3D-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG%20Systems-3D-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP%20AI-3D-purple?style=for-the-badge" />
+
+</p>
 
 ---
 
-## ⚙️ Tech Stack (Cyber Grid)
+## 🚀 ABOUT ME
 
-### 💻 Programming
+- 🎓 Software Engineering Student (University of Gujrat)  
+- 🤖 AI Agent & Generative AI Developer  
+- 🌐 Full Stack Web + AI Application Builder  
+- 🔬 Passionate about real-world AI automation systems  
+- 🚀 Final Year Project: AI-Driven GEC Marketplace Platform  
+
+---
+
+## 🎯 CURRENT FOCUS
+
+- AI Agents using LangChain & MCP  
+- RAG-based intelligent systems  
+- Full-stack AI applications  
+- Backend architecture & system design  
+- Machine Learning fundamentals  
+
+---
+
+## 💻 TECH STACK
+
+**Languages**  
 Python • JavaScript • PHP • C++
 
-### 🌐 Web
+**Web**  
 HTML • CSS • Bootstrap • React.js • Node.js
 
-### 🤖 AI / ML
-LLMs • LangChain • RAG • MCP • Prompt Engineering • Machine Learning
+**AI / ML**  
+LLMs • LangChain • RAG • MCP • Prompt Engineering
 
-### 🗄️ Backend
-MySQL • REST APIs • Firebase
+**Database**  
+MySQL • Database Design
 
-### 🛠️ Tools
-Git • GitHub • VS Code • WordPress • WooCommerce
-
----
-
-## 📊 Live GitHub Stats Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gulesakeena&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gulesakeena&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
+**Tools**  
+Git • GitHub • VS Code • WordPress
 
 ---
 
-## 🚀 Featured Projects (AI + 3D SYSTEMS)
+## 📊 GITHUB STATS
 
-### 🧠 EnergyCert Bot (AI Blockchain System)
-- AI-powered GEC management platform  
-- RAG + LangChain chatbot system  
-- MCP-based AI agent workflows  
-- Blockchain certificate lifecycle tracking  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gulesakeena&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gulesakeena&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
----
-
-### 🏫 Society Automation System
-- AI workflow optimization  
-- Process simulation (AnyLogic)  
-- Reduced manual registration delays  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulesakeena&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-### 🏠 Hostel Leave AI System
-- Automated approval workflows  
-- Simulation-based optimization  
-- Improved tracking system  
+## 🚀 FEATURED PROJECTS
+
+### 🤖 AI-Driven GEC Marketplace Platform
+- LangChain + RAG + AI Agents (MCP)
+- Blockchain integration (Aptos)
+- Smart AI chatbot system
 
 ---
 
-### 🏦 Banking System (C++)
-- OOP-based system  
-- File handling & transactions  
-- Modular architecture  
+### 🎓 LMS System
+- Student & course management
+- Full-stack backend system
 
 ---
 
-### 📦 Inventory Management System
-- Full-stack web system  
-- Stock & sales dashboard  
-- Database-driven architecture  
+### 📦 Inventory System
+- CRUD + authentication system
+- Database-driven architecture
 
 ---
 
-## 🎓 Education
-
-🎓 B.S. Software Engineering  
-🏫 University of Gujrat (2022 – 2026)
-
-Focus:
-AI Systems • Software Engineering • Databases • System Design • Machine Learning
+### 🌐 WordPress Projects
+- Business websites
+- SEO + deployment + hosting
 
 ---
 
-## 💼 Experience Timeline
+## 🏆 EXPERIENCE
 
-### 🤖 Generative AI Developer
-- LangChain • RAG • MCP  
-- AI chatbots & automation systems  
+**AI / Generative AI Developer**  
+Built RAG systems, chatbots & automation tools  
 
-### 🌐 Freelance Developer
-- WordPress websites  
-- SEO & performance optimization  
-- WooCommerce stores  
+**Web Developer Intern**  
+Worked on full-stack applications  
 
-### 💻 Web Intern
-- React.js apps  
-- API integration  
-- Git workflows  
-
-### 🧠 ML Intern
-- Data analysis  
-- ML models  
-- Python automation  
+**Freelance Developer**  
+Delivered WordPress & business solutions  
 
 ---
 
-## 🟣 CORE SKILLS (CYBER GRID)
+## 🎓 EDUCATION
 
-✔ Problem Solving  
-✔ AI System Design  
-✔ Full Stack Development  
-✔ Workflow Automation  
-✔ Debugging & Optimization  
-✔ System Architecture  
+BSc Software Engineering — University of Gujrat (2022–2026)
+
+Focus: AI Systems • Software Engineering • Databases • System Design  
 
 ---
 
-## 💼 “HIRE ME” FREELANCE SECTION 🚀
+## 🚀 HIRE ME SECTION (CALL TO ACTION)
 
-### 🌟 Available for Work
-I am currently open to:
+<p align="center">
 
-- 💻 Software Engineering Internships  
-- 🤖 AI / ML / Generative AI Projects  
-- 🌐 Freelance Web Development  
-- 🧠 AI Automation & Chatbot Systems  
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&logo=checkmarx" />
+<img src="https://img.shields.io/badge/Freelance-Available-blue?style=for-the-badge&logo=fiverr" />
 
-### 📩 Contact
-- 📧 Email: gulesakeena@gmail.com  
-- 💼 LinkedIn: Gul E Sakeena  
-- 🐙 GitHub: Gulesakeena  
+</p>
+
+<p align="center">
+💼 I am available for <b>Internships | Freelance Projects | AI Development Work</b>
+</p>
+
+<p align="center">
+<a href="mailto:gulesakeena@gmail.com">
+  <img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-orange?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
 ---
 
-## 🌌 Footer (CYBER SIGNATURE)
+## 📫 CONNECT WITH ME
 
-<div align="center">
+- GitHub: https://github.com/Gulesakeena  
+- Email: gulesakeena@gmail.com  
+- LinkedIn: Gul E Sakeena  
 
-> ⚡ “Turning ideas into intelligent systems powered by AI, logic & innovation.”
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer"/>
+<!-- ================== FLOATING STYLE FOOTER ================== -->
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&color=100:00e5ff,0:0f0c29&height=150&section=footer"/>
 
-</div>
+<p align="center">
+  <b>“Turning AI ideas into real-world intelligent systems.”</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
