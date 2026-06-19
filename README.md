@@ -1,177 +1,186 @@
-<!-- ================== FLOATING HEADER (Particles Effect Style) ================== -->
-<img width="100%" 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00e5ff&height=230&section=header&text=Gul%20e%20Sakeena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- ===================== HEADER BANNER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Generative+AI+%7C+AI+Agents+Developer;LangChain+%7C+RAG+%7C+MCP+Engineer;Full-Stack+AI+Developer;Open+to+Internships+%26+Freelance+Work" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Gul%20e%20Sakeena&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <b>Building intelligent, practical, and user-centered software solutions</b>
 </p>
 
 ---
 
-## 🌌 PROFILE OVERVIEW
+# 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+I am a Software Engineering student at the University of Gujrat with a strong interest in designing and developing practical, scalable, and intelligent software systems.
 
-💜 AI-focused Software Engineer  
-⚡ Building intelligent systems with LLMs, RAG & AI Agents  
-🧠 Strong interest in automation & scalable AI systems  
-🚀 Open for internships & freelance opportunities  
+My primary focus areas include **Generative AI, AI Agents, Retrieval-Augmented Generation (RAG), LangChain, MCP (Model Context Protocol), and LLM-based applications**. I enjoy working on projects that combine solid software engineering principles with modern AI technologies to solve real-world problems.
+
+I am currently seeking internship opportunities in **Software Engineering, Generative AI, and AI Agent Development**, where I can contribute to impactful projects, gain industry experience, and further strengthen my technical and problem-solving skills.
 
 ---
 
-## 🧊 3D GITHUB BADGES
+# 🎯 Current Focus
 
-<p align="center">
+- Developing AI-powered applications using LLMs and LangChain frameworks  
+- Designing and implementing RAG-based intelligent chatbot systems  
+- Exploring agentic AI workflows using MCP and tool-based architectures  
+- Strengthening skills in Machine Learning and Generative AI concepts  
+- Improving backend development, database design, and system architecture  
 
-<img src="https://img.shields.io/badge/Python-3D-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-3D-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-3D-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-3D-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-3D-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG%20Systems-3D-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP%20AI-3D-purple?style=for-the-badge" />
+---
 
+# ⚡ Tech Stack
+
+## 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-7F00FF?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 ABOUT ME
-
-- 🎓 Software Engineering Student (University of Gujrat)  
-- 🤖 AI Agent & Generative AI Developer  
-- 🌐 Full Stack Web + AI Application Builder  
-- 🔬 Passionate about real-world AI automation systems  
-- 🚀 Final Year Project: AI-Driven GEC Marketplace Platform  
-
----
-
-## 🎯 CURRENT FOCUS
-
-- AI Agents using LangChain & MCP  
-- RAG-based intelligent systems  
-- Full-stack AI applications  
-- Backend architecture & system design  
-- Machine Learning fundamentals  
-
----
-
-## 💻 TECH STACK
-
-**Languages**  
-Python • JavaScript • PHP • C++
-
-**Web**  
-HTML • CSS • Bootstrap • React.js • Node.js
-
-**AI / ML**  
-LLMs • LangChain • RAG • MCP • Prompt Engineering
-
-**Database**  
-MySQL • Database Design
-
-**Tools**  
-Git • GitHub • VS Code • WordPress
-
----
-
-## 📊 GITHUB STATS
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gulesakeena&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gulesakeena&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulesakeena&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+## 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
-### 🤖 AI-Driven GEC Marketplace Platform
-- LangChain + RAG + AI Agents (MCP)
-- Blockchain integration (Aptos)
-- Smart AI chatbot system
-
----
-
-### 🎓 LMS System
-- Student & course management
-- Full-stack backend system
-
----
-
-### 📦 Inventory System
-- CRUD + authentication system
-- Database-driven architecture
-
----
-
-### 🌐 WordPress Projects
-- Business websites
-- SEO + deployment + hosting
-
----
-
-## 🏆 EXPERIENCE
-
-**AI / Generative AI Developer**  
-Built RAG systems, chatbots & automation tools  
-
-**Web Developer Intern**  
-Worked on full-stack applications  
-
-**Freelance Developer**  
-Delivered WordPress & business solutions  
-
----
-
-## 🎓 EDUCATION
-
-BSc Software Engineering — University of Gujrat (2022–2026)
-
-Focus: AI Systems • Software Engineering • Databases • System Design  
-
----
-
-## 🚀 HIRE ME SECTION (CALL TO ACTION)
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&logo=checkmarx" />
-<img src="https://img.shields.io/badge/Freelance-Available-blue?style=for-the-badge&logo=fiverr" />
-
-</p>
-
-<p align="center">
-💼 I am available for <b>Internships | Freelance Projects | AI Development Work</b>
-</p>
-
-<p align="center">
-<a href="mailto:gulesakeena@gmail.com">
-  <img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-orange?style=for-the-badge&logo=gmail" />
-</a>
+## 🗄️ Databases & Backend
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📫 CONNECT WITH ME
-
-- GitHub: https://github.com/Gulesakeena  
-- Email: gulesakeena@gmail.com  
-- LinkedIn: Gul E Sakeena  
+## 🤖 AI & Emerging Technologies
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-7F00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-FF007F?style=for-the-badge"/>
+</p>
 
 ---
 
-<!-- ================== FLOATING STYLE FOOTER ================== -->
-<img width="100%" 
-src="https://capsule-render.vercel.app/api?type=waving&color=100:00e5ff,0:0f0c29&height=150&section=footer"/>
+## 🛠 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AnyLogic-7F00FF?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊 Contribution Streak
 
 <p align="center">
-  <b>“Turning AI ideas into real-world intelligent systems.”</b>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gulesakeena&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gulesakeena&theme=tokyo-night" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ⚡ EnergyCert Bot — AI GEC Management System
+An intelligent platform designed for managing Green Energy Certificates using natural language interaction, AI agents, and blockchain-based operations.
+
+**Key Features:**
+- Conversational AI chatbot for certificate management  
+- Retrieval-Augmented Generation (RAG) for accurate responses  
+- AI agent-based workflow automation using MCP  
+- Certificate issuance, transfer, and retirement tracking  
+- Blockchain integration for transparency and verification  
+
+---
+
+## 🎓 Society Registration Automation System
+An AI-assisted workflow optimization project aimed at improving and digitizing manual registration processes.
+
+**Key Features:**
+- Analysis of existing manual registration workflow  
+- Design of improved AI-assisted digital processes  
+- Simulation-based performance comparison  
+- Reduced processing delays and improved efficiency  
+
+---
+
+## 🏠 Hostel Leave Management System
+A simulation-based system designed to optimize hostel leave request handling and approval workflows.
+
+**Key Features:**
+- Identification of inefficiencies in manual approval process  
+- Automated workflow design using AnyLogic simulation  
+- Reduced dependency on manual follow-ups  
+- Improved transparency and tracking of requests  
+
+---
+
+## 🏦 Banking Management System (C++)
+A console-based banking system developed using Object-Oriented Programming principles.
+
+**Key Features:**
+- Multi-role system (admin, employee, account holder)  
+- Account creation and transaction management  
+- File handling for persistent data storage  
+- Strong use of OOP concepts (encapsulation, inheritance, modular design)  
+
+---
+
+## 📦 InvenTrack Pro — Inventory Management System
+A web-based inventory system for managing products, customers, sales, and stock operations.
+
+**Key Features:**
+- Admin dashboard for complete inventory control  
+- Product, customer, and order management system  
+- Stock monitoring with low-level alerts  
+- Search, filter, and reporting features  
+
+---
+
+# 🎓 Education
+
+**Bachelor of Science in Software Engineering**  
+University of Gujrat (2022 – 2026)
+
+Focused on developing strong foundations in:
+- Software Engineering Principles  
+- Database Systems  
+- System Design & Architecture  
+- Object-Oriented Programming  
+- Artificial Intelligence & Machine Learning Applications  
+
+---
+
+# 💪 Core Strengths
+
+- Strong problem-solving and analytical thinking skills  
+- AI system design and implementation  
+- Backend development and API integration  
+- Workflow automation and process optimization  
+- Solid understanding of OOP and system design principles  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile ⭐
+  🚀 Passionate about building intelligent systems | Always learning | Open to opportunities
 </p>
