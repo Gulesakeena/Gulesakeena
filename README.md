@@ -95,7 +95,7 @@ OOP • DSA • Debugging • Problem Solving • System Design Basics • Cyber
 ## 🧭 Leadership
 
 ### 🎯 Final Year Project Team Lead
-University of Gujrat | 2025 – Present  
+University of Gujrat | 2025  
 - Leading development of an AI-based decentralized platform  
 - Managing team collaboration, system design, and AI integration  
 
